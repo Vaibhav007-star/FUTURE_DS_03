@@ -1,0 +1,1001 @@
+Date,Location,Severity,Cause,Latitude,Longitude
+2021-11-27,Pune,Minor,Drunk Driving,18.536851,73.869093
+2021-10-08,Mumbai,Minor,Weather Conditions,19.089496,72.876022
+2022-01-12,Ahmedabad,Minor,Drunk Driving,23.030698,72.582469
+2022-11-23,Ahmedabad,Minor,Overtaking,23.03139,72.562943
+2021-03-06,Hyderabad,Minor,Signal Jumping,17.370692,78.492215
+2023-07-01,Jaipur,Minor,Drunk Driving,26.909322,75.770408
+2022-03-16,Delhi,Major,Speeding,28.615074,77.212943
+2021-01-20,Bengaluru,Minor,Weather Conditions,12.976773,77.593498
+2023-09-15,Ahmedabad,Major,Overtaking,23.029538,72.557311
+2023-01-19,Bengaluru,Minor,Signal Jumping,12.964193,77.582295
+2024-03-13,Pune,Minor,Signal Jumping,18.502169,73.844402
+2023-01-25,Jaipur,Major,Brake Failure,26.904792,75.798958
+2024-05-06,Ahmedabad,Major,Speeding,23.017088,72.559903
+2021-08-16,Pune,Major,Distraction,18.501487,73.86076
+2023-01-14,Bengaluru,Major,Overtaking,12.984104,77.586961
+2021-06-04,Chennai,Major,Tyre Burst,13.098682,80.275599
+2023-08-03,Jaipur,Minor,Distraction,26.898935,75.770194
+2023-05-25,Jaipur,Minor,Tyre Burst,26.910375,75.792461
+2024-01-25,Kolkata,Major,Drunk Driving,22.590308,88.36038
+2022-04-04,Pune,Major,Weather Conditions,18.504933,73.857567
+2024-07-10,Kolkata,Major,Speeding,22.589177,88.36058
+2022-08-18,Pune,Minor,Weather Conditions,18.521205,73.860896
+2021-04-20,Hyderabad,Fatal,Weather Conditions,17.402341,78.483126
+2021-12-29,Hyderabad,Minor,Distraction,17.369318,78.502896
+2021-05-20,Pune,Minor,Signal Jumping,18.536185,73.86405
+2022-11-03,Lucknow,Minor,Signal Jumping,26.842464,80.947465
+2023-01-06,Delhi,Minor,Overtaking,28.608948,77.195603
+2022-02-22,Kolkata,Major,Drunk Driving,22.577479,88.381739
+2022-11-29,Lucknow,Minor,Speeding,26.837371,80.951548
+2023-04-19,Chennai,Major,Drunk Driving,13.095945,80.273628
+2021-03-31,Kolkata,Major,Distraction,22.581387,88.376499
+2021-11-30,Delhi,Minor,Weather Conditions,28.602292,77.193798
+2021-04-10,Kolkata,Minor,Weather Conditions,22.590825,88.359112
+2023-08-06,Ahmedabad,Minor,Weather Conditions,23.013009,72.55505
+2021-06-30,Hyderabad,Minor,Distraction,17.388401,78.481799
+2024-06-11,Pune,Minor,Speeding,18.535069,73.87148
+2023-03-05,Mumbai,Minor,Weather Conditions,19.08936,72.877721
+2024-01-25,Kolkata,Fatal,Speeding,22.561572,88.378597
+2021-08-11,Lucknow,Major,Distraction,26.828377,80.93536
+2021-10-08,Mumbai,Major,Weather Conditions,19.059514,72.869527
+2023-07-24,Kolkata,Minor,Speeding,22.553608,88.36172
+2021-07-25,Ahmedabad,Minor,Weather Conditions,23.030428,72.564975
+2021-12-04,Jaipur,Major,Distraction,26.899929,75.790333
+2022-11-11,Mumbai,Minor,Speeding,19.084725,72.882823
+2024-03-02,Bengaluru,Minor,Brake Failure,12.970521,77.581222
+2022-12-09,Ahmedabad,Major,Tyre Burst,23.036077,72.591133
+2021-07-10,Ahmedabad,Minor,Weather Conditions,23.02285,72.588257
+2021-09-17,Jaipur,Minor,Signal Jumping,26.932003,75.781446
+2023-04-14,Bengaluru,Major,Speeding,12.981748,77.57559
+2022-01-03,Pune,Major,Drunk Driving,18.504161,73.863225
+2021-09-19,Lucknow,Fatal,Signal Jumping,26.842797,80.952217
+2023-06-20,Pune,Minor,Brake Failure,18.511524,73.855391
+2021-09-03,Delhi,Minor,Weather Conditions,28.629512,77.191105
+2024-02-21,Mumbai,Major,Tyre Burst,19.093994,72.878867
+2023-03-09,Chennai,Minor,Brake Failure,13.090528,80.273471
+2023-11-27,Mumbai,Minor,Distraction,19.0671,72.867844
+2024-06-30,Jaipur,Minor,Brake Failure,26.929355,75.806807
+2022-04-28,Kolkata,Minor,Weather Conditions,22.589177,88.359166
+2024-02-23,Ahmedabad,Minor,Brake Failure,23.040912,72.562416
+2021-06-23,Hyderabad,Minor,Distraction,17.387346,78.48237
+2021-04-27,Pune,Major,Weather Conditions,18.514484,73.850893
+2023-02-19,Lucknow,Minor,Speeding,26.835589,80.930889
+2021-12-21,Kolkata,Major,Overtaking,22.591889,88.365795
+2021-01-22,Hyderabad,Minor,Tyre Burst,17.368373,78.494606
+2022-06-19,Mumbai,Major,Brake Failure,19.09062,72.873383
+2022-12-30,Ahmedabad,Major,Tyre Burst,23.011899,72.577286
+2023-01-25,Jaipur,Major,Weather Conditions,26.908346,75.782989
+2024-06-07,Delhi,Major,Overtaking,28.620107,77.194957
+2021-02-04,Lucknow,Major,Weather Conditions,26.826759,80.932778
+2021-04-04,Pune,Major,Overtaking,18.503431,73.851431
+2021-06-25,Bengaluru,Minor,Brake Failure,12.987598,77.578812
+2021-11-25,Hyderabad,Minor,Signal Jumping,17.394715,78.472684
+2022-08-20,Bengaluru,Minor,Distraction,12.981248,77.593087
+2023-03-16,Bengaluru,Fatal,Tyre Burst,12.985165,77.593226
+2024-01-27,Hyderabad,Minor,Speeding,17.385179,78.46957
+2024-05-15,Jaipur,Major,Speeding,26.898863,75.778766
+2024-03-20,Pune,Major,Overtaking,18.521624,73.862735
+2021-11-06,Ahmedabad,Minor,Weather Conditions,23.02147,72.570464
+2022-12-20,Pune,Minor,Distraction,18.536673,73.869299
+2024-01-12,Kolkata,Minor,Brake Failure,22.584874,88.380488
+2021-11-19,Pune,Major,Speeding,18.522242,73.840243
+2021-04-10,Delhi,Fatal,Drunk Driving,28.60978,77.194179
+2022-01-31,Chennai,Major,Signal Jumping,13.098957,80.253251
+2022-05-13,Lucknow,Minor,Weather Conditions,26.861994,80.934339
+2021-12-08,Jaipur,Minor,Speeding,26.928545,75.784009
+2024-01-15,Chennai,Minor,Weather Conditions,13.070988,80.260877
+2021-08-24,Lucknow,Minor,Overtaking,26.843547,80.957402
+2022-04-19,Ahmedabad,Minor,Speeding,23.004018,72.577574
+2023-02-08,Chennai,Minor,Weather Conditions,13.08085,80.285378
+2023-10-24,Delhi,Minor,Brake Failure,28.601901,77.207861
+2024-02-16,Kolkata,Fatal,Drunk Driving,22.576708,88.380974
+2022-09-30,Delhi,Minor,Brake Failure,28.598686,77.226259
+2022-01-24,Kolkata,Minor,Overtaking,22.589182,88.361349
+2021-04-02,Bengaluru,Minor,Brake Failure,12.991096,77.601712
+2021-09-24,Kolkata,Major,Overtaking,22.587117,88.347581
+2021-10-09,Hyderabad,Major,Speeding,17.392241,78.471577
+2022-02-04,Hyderabad,Fatal,Weather Conditions,17.378933,78.477362
+2023-12-03,Lucknow,Minor,Weather Conditions,26.837292,80.934459
+2022-01-29,Hyderabad,Minor,Signal Jumping,17.40496,78.492782
+2021-09-15,Hyderabad,Fatal,Distraction,17.386743,78.494563
+2021-07-16,Lucknow,Minor,Drunk Driving,26.83227,80.954274
+2021-09-30,Chennai,Major,Drunk Driving,13.099979,80.252182
+2023-05-09,Ahmedabad,Fatal,Signal Jumping,23.039732,72.575638
+2021-01-15,Hyderabad,Minor,Signal Jumping,17.37793,78.490171
+2021-04-06,Lucknow,Minor,Drunk Driving,26.829414,80.952097
+2024-05-26,Lucknow,Major,Drunk Driving,26.830063,80.927247
+2021-03-12,Jaipur,Minor,Drunk Driving,26.928723,75.805639
+2021-09-01,Mumbai,Minor,Distraction,19.084856,72.897047
+2022-09-12,Pune,Fatal,Overtaking,18.538596,73.839345
+2023-03-08,Hyderabad,Minor,Distraction,17.389232,78.487535
+2023-03-08,Mumbai,Minor,Brake Failure,19.071945,72.873053
+2023-03-17,Ahmedabad,Minor,Distraction,23.007062,72.562671
+2021-12-16,Bengaluru,Minor,Distraction,12.990542,77.599034
+2021-10-25,Jaipur,Minor,Drunk Driving,26.92025,75.793821
+2021-04-16,Delhi,Minor,Speeding,28.605428,77.222375
+2022-06-01,Ahmedabad,Minor,Signal Jumping,23.029871,72.56375
+2021-02-16,Mumbai,Minor,Signal Jumping,19.061749,72.871981
+2022-03-01,Kolkata,Major,Brake Failure,22.575641,88.377433
+2023-06-30,Ahmedabad,Fatal,Brake Failure,23.022136,72.571079
+2023-11-10,Kolkata,Major,Overtaking,22.570422,88.369735
+2023-03-24,Chennai,Major,Overtaking,13.073768,80.279513
+2023-05-07,Ahmedabad,Fatal,Signal Jumping,23.012531,72.58721
+2021-06-14,Mumbai,Minor,Tyre Burst,19.070722,72.870656
+2022-12-02,Jaipur,Minor,Distraction,26.915919,75.775281
+2022-11-06,Kolkata,Minor,Drunk Driving,22.583258,88.350697
+2022-09-05,Mumbai,Major,Distraction,19.084807,72.867478
+2022-05-17,Delhi,Major,Signal Jumping,28.611327,77.205965
+2022-03-04,Kolkata,Minor,Distraction,22.579953,88.376364
+2024-06-07,Delhi,Minor,Drunk Driving,28.611783,77.201297
+2021-05-19,Mumbai,Minor,Signal Jumping,19.070303,72.866126
+2023-10-08,Ahmedabad,Fatal,Signal Jumping,23.040116,72.562929
+2021-07-26,Bengaluru,Minor,Weather Conditions,12.98038,77.587519
+2023-08-06,Jaipur,Minor,Speeding,26.926249,75.784914
+2024-06-28,Jaipur,Major,Drunk Driving,26.915961,75.795435
+2021-12-26,Mumbai,Minor,Tyre Burst,19.061733,72.87496
+2023-03-16,Ahmedabad,Minor,Brake Failure,23.010178,72.57531
+2022-11-04,Delhi,Fatal,Signal Jumping,28.618843,77.19587
+2021-07-10,Mumbai,Major,Drunk Driving,19.066401,72.871765
+2021-01-21,Lucknow,Minor,Signal Jumping,26.862545,80.926464
+2022-11-25,Delhi,Major,Drunk Driving,28.595965,77.192616
+2023-06-26,Bengaluru,Major,Distraction,12.952882,77.599832
+2022-04-21,Pune,Minor,Distraction,18.519912,73.87077
+2023-01-23,Hyderabad,Major,Weather Conditions,17.389138,78.479343
+2023-01-19,Kolkata,Major,Drunk Driving,22.556356,88.35219
+2024-02-27,Kolkata,Minor,Distraction,22.55953,88.352474
+2022-05-30,Delhi,Minor,Distraction,28.617159,77.225275
+2024-06-01,Chennai,Major,Signal Jumping,13.095516,80.26384
+2021-04-19,Lucknow,Minor,Overtaking,26.842793,80.963904
+2022-01-09,Lucknow,Major,Brake Failure,26.847858,80.947952
+2024-02-21,Pune,Major,Tyre Burst,18.518171,73.852368
+2022-08-17,Ahmedabad,Major,Tyre Burst,23.031299,72.568895
+2023-03-30,Bengaluru,Minor,Brake Failure,12.96306,77.612112
+2021-08-18,Jaipur,Minor,Brake Failure,26.923813,75.801333
+2022-03-05,Lucknow,Major,Speeding,26.843094,80.959341
+2021-09-30,Ahmedabad,Minor,Weather Conditions,23.022459,72.574004
+2021-05-15,Ahmedabad,Major,Signal Jumping,23.011084,72.581251
+2024-01-07,Delhi,Major,Tyre Burst,28.629921,77.195367
+2024-03-19,Ahmedabad,Fatal,Distraction,23.017684,72.5615
+2023-03-07,Chennai,Minor,Distraction,13.08675,80.282549
+2022-03-12,Delhi,Minor,Brake Failure,28.603003,77.208868
+2023-08-24,Ahmedabad,Minor,Signal Jumping,23.006257,72.579516
+2022-06-19,Delhi,Minor,Overtaking,28.599118,77.192905
+2024-05-13,Lucknow,Minor,Speeding,26.832845,80.954442
+2022-09-01,Hyderabad,Minor,Tyre Burst,17.395188,78.502464
+2023-06-28,Kolkata,Minor,Overtaking,22.565362,88.364947
+2022-09-07,Lucknow,Major,Speeding,26.84972,80.936412
+2022-06-02,Jaipur,Minor,Brake Failure,26.904371,75.803597
+2024-03-21,Pune,Minor,Signal Jumping,18.510454,73.858634
+2023-08-02,Delhi,Major,Weather Conditions,28.614392,77.220579
+2022-11-10,Hyderabad,Minor,Weather Conditions,17.381329,78.480856
+2023-09-12,Bengaluru,Minor,Overtaking,12.98453,77.59005
+2023-05-08,Mumbai,Major,Drunk Driving,19.081024,72.859628
+2023-07-20,Ahmedabad,Minor,Overtaking,23.038693,72.577099
+2021-06-07,Mumbai,Minor,Signal Jumping,19.094017,72.86784
+2022-04-02,Mumbai,Fatal,Signal Jumping,19.085067,72.885419
+2021-08-27,Kolkata,Minor,Speeding,22.587539,88.35895
+2023-03-19,Jaipur,Major,Drunk Driving,26.90684,75.788293
+2022-11-03,Bengaluru,Major,Speeding,12.986729,77.595199
+2022-06-28,Ahmedabad,Major,Tyre Burst,23.013891,72.575689
+2023-11-17,Chennai,Major,Brake Failure,13.094377,80.26445
+2022-04-16,Delhi,Minor,Drunk Driving,28.622769,77.21488
+2023-01-17,Jaipur,Major,Speeding,26.924634,75.801328
+2022-01-08,Chennai,Minor,Distraction,13.073472,80.273436
+2023-02-18,Lucknow,Major,Weather Conditions,26.844346,80.93003
+2024-02-01,Kolkata,Minor,Weather Conditions,22.572303,88.380272
+2023-02-03,Chennai,Minor,Overtaking,13.101287,80.26256
+2021-04-02,Hyderabad,Major,Tyre Burst,17.395006,78.467221
+2022-03-20,Mumbai,Fatal,Weather Conditions,19.089449,72.859565
+2024-06-04,Delhi,Major,Distraction,28.626408,77.189153
+2022-03-02,Ahmedabad,Minor,Speeding,23.037677,72.570327
+2021-12-25,Chennai,Major,Weather Conditions,13.073703,80.269369
+2021-02-15,Hyderabad,Minor,Drunk Driving,17.383781,78.468207
+2021-09-15,Kolkata,Minor,Distraction,22.577203,88.351394
+2022-08-18,Lucknow,Major,Brake Failure,26.861012,80.931855
+2022-07-12,Mumbai,Minor,Speeding,19.087467,72.88683
+2022-07-04,Jaipur,Minor,Speeding,26.921326,75.792133
+2022-04-03,Mumbai,Minor,Distraction,19.060974,72.881155
+2024-03-21,Hyderabad,Major,Overtaking,17.372021,78.488289
+2022-05-30,Delhi,Major,Drunk Driving,28.610174,77.211772
+2023-03-07,Hyderabad,Major,Distraction,17.370294,78.479947
+2023-04-12,Pune,Minor,Tyre Burst,18.515624,73.837729
+2023-11-09,Mumbai,Minor,Drunk Driving,19.080366,72.882584
+2021-07-22,Lucknow,Minor,Brake Failure,26.861124,80.941788
+2022-11-13,Chennai,Minor,Distraction,13.092707,80.273139
+2021-02-17,Chennai,Minor,Tyre Burst,13.076436,80.255739
+2022-11-13,Ahmedabad,Minor,Brake Failure,23.006344,72.583387
+2023-08-27,Delhi,Major,Drunk Driving,28.610428,77.193241
+2021-01-02,Delhi,Fatal,Drunk Driving,28.633409,77.208351
+2024-06-12,Lucknow,Major,Drunk Driving,26.8551,80.961307
+2021-09-30,Pune,Major,Distraction,18.534556,73.855325
+2022-06-23,Mumbai,Minor,Signal Jumping,19.089996,72.89146
+2021-01-15,Hyderabad,Fatal,Overtaking,17.386925,78.494073
+2022-11-07,Ahmedabad,Major,Overtaking,23.010234,72.554081
+2023-09-21,Ahmedabad,Minor,Speeding,23.026838,72.562678
+2022-04-04,Mumbai,Minor,Weather Conditions,19.070377,72.891835
+2024-04-15,Pune,Minor,Overtaking,18.533567,73.850373
+2022-02-25,Delhi,Minor,Signal Jumping,28.620146,77.189868
+2022-06-17,Bengaluru,Major,Weather Conditions,12.963374,77.593688
+2021-07-15,Hyderabad,Minor,Overtaking,17.395654,78.489889
+2022-01-08,Bengaluru,Major,Tyre Burst,12.952208,77.595993
+2023-12-05,Mumbai,Fatal,Brake Failure,19.085363,72.881556
+2022-08-25,Jaipur,Major,Speeding,26.914945,75.78927
+2021-09-30,Delhi,Minor,Speeding,28.629743,77.20529
+2022-07-13,Chennai,Major,Tyre Burst,13.065801,80.257886
+2023-10-15,Chennai,Minor,Signal Jumping,13.072595,80.284002
+2021-04-09,Hyderabad,Fatal,Speeding,17.368711,78.499736
+2022-04-23,Bengaluru,Major,Signal Jumping,12.971251,77.575937
+2023-02-06,Bengaluru,Minor,Brake Failure,12.964023,77.581436
+2021-09-19,Bengaluru,Minor,Overtaking,12.959647,77.605108
+2024-07-17,Delhi,Fatal,Speeding,28.596433,77.191556
+2021-09-05,Lucknow,Major,Speeding,26.835197,80.946172
+2023-07-30,Jaipur,Major,Overtaking,26.914213,75.801749
+2023-09-24,Chennai,Minor,Overtaking,13.0932,80.284005
+2024-03-23,Delhi,Major,Brake Failure,28.60455,77.211906
+2022-12-10,Mumbai,Minor,Distraction,19.069345,72.882307
+2023-11-25,Ahmedabad,Minor,Speeding,23.020725,72.564523
+2023-11-03,Bengaluru,Minor,Drunk Driving,12.976937,77.5983
+2022-11-02,Ahmedabad,Major,Brake Failure,23.033055,72.583523
+2021-04-04,Bengaluru,Major,Overtaking,12.957911,77.592375
+2023-04-24,Mumbai,Minor,Weather Conditions,19.095255,72.873514
+2023-03-24,Pune,Minor,Drunk Driving,18.519788,73.871138
+2024-03-21,Delhi,Major,Signal Jumping,28.621945,77.215724
+2022-07-24,Jaipur,Minor,Weather Conditions,26.910603,75.799883
+2022-08-21,Pune,Minor,Speeding,18.501133,73.851136
+2022-11-17,Lucknow,Fatal,Weather Conditions,26.840115,80.943041
+2023-06-10,Pune,Minor,Brake Failure,18.502207,73.861227
+2023-04-12,Ahmedabad,Fatal,Drunk Driving,23.01368,72.557516
+2023-07-26,Kolkata,Minor,Weather Conditions,22.573575,88.345592
+2021-04-08,Kolkata,Major,Drunk Driving,22.556716,88.353707
+2023-03-13,Pune,Major,Speeding,18.508166,73.870906
+2024-02-01,Mumbai,Fatal,Distraction,19.092221,72.893999
+2024-05-25,Jaipur,Minor,Distraction,26.8952,75.805662
+2022-11-02,Mumbai,Major,Speeding,19.079116,72.874982
+2022-11-17,Hyderabad,Major,Weather Conditions,17.39282,78.506507
+2023-05-14,Mumbai,Major,Speeding,19.081043,72.891452
+2022-08-12,Kolkata,Major,Drunk Driving,22.560312,88.345514
+2021-12-02,Mumbai,Minor,Tyre Burst,19.073267,72.876963
+2023-09-28,Jaipur,Minor,Drunk Driving,26.892857,75.794832
+2024-05-24,Delhi,Minor,Drunk Driving,28.610621,77.195114
+2021-07-13,Lucknow,Minor,Tyre Burst,26.841592,80.942531
+2024-07-20,Delhi,Minor,Brake Failure,28.611456,77.219607
+2024-01-25,Chennai,Minor,Overtaking,13.080691,80.264912
+2021-05-03,Lucknow,Major,Brake Failure,26.831401,80.949921
+2022-07-07,Lucknow,Fatal,Speeding,26.828911,80.947252
+2021-01-28,Pune,Minor,Speeding,18.525683,73.837221
+2023-01-14,Lucknow,Minor,Speeding,26.863521,80.951442
+2023-03-11,Delhi,Minor,Overtaking,28.609579,77.191019
+2024-06-04,Chennai,Minor,Distraction,13.09896,80.278381
+2022-07-10,Bengaluru,Minor,Brake Failure,12.968153,77.574675
+2021-09-06,Hyderabad,Minor,Drunk Driving,17.379177,78.489183
+2024-04-13,Pune,Major,Weather Conditions,18.514024,73.845004
+2023-12-31,Bengaluru,Fatal,Weather Conditions,12.972249,77.59591
+2021-06-05,Delhi,Minor,Speeding,28.629211,77.191766
+2022-09-18,Bengaluru,Minor,Drunk Driving,12.953811,77.583213
+2024-06-01,Bengaluru,Minor,Distraction,12.968061,77.581825
+2022-05-27,Kolkata,Minor,Overtaking,22.578285,88.378046
+2022-09-02,Pune,Minor,Overtaking,18.526241,73.850891
+2023-03-22,Pune,Minor,Tyre Burst,18.533596,73.841184
+2021-11-13,Jaipur,Fatal,Brake Failure,26.915274,75.769058
+2021-09-04,Lucknow,Minor,Tyre Burst,26.829809,80.927902
+2022-01-31,Lucknow,Major,Speeding,26.827133,80.961708
+2021-10-30,Kolkata,Minor,Weather Conditions,22.572881,88.371694
+2023-11-01,Kolkata,Minor,Brake Failure,22.58722,88.357039
+2024-01-08,Kolkata,Minor,Overtaking,22.559449,88.360221
+2022-08-01,Pune,Major,Drunk Driving,18.518187,73.876499
+2023-01-29,Lucknow,Minor,Signal Jumping,26.849287,80.932442
+2023-10-31,Kolkata,Fatal,Drunk Driving,22.592441,88.346044
+2021-07-16,Delhi,Major,Signal Jumping,28.621434,77.209843
+2022-04-24,Chennai,Fatal,Distraction,13.094341,80.274382
+2023-10-28,Chennai,Minor,Weather Conditions,13.086313,80.274749
+2022-10-04,Ahmedabad,Minor,Signal Jumping,23.031067,72.560809
+2021-04-29,Chennai,Minor,Overtaking,13.079357,80.265642
+2023-09-30,Pune,Minor,Tyre Burst,18.53832,73.842151
+2021-09-23,Lucknow,Fatal,Weather Conditions,26.859077,80.936978
+2022-07-08,Jaipur,Minor,Weather Conditions,26.928437,75.779979
+2023-10-22,Chennai,Major,Weather Conditions,13.071528,80.284152
+2024-05-19,Hyderabad,Minor,Speeding,17.386629,78.50106
+2024-07-19,Jaipur,Major,Signal Jumping,26.904632,75.778237
+2023-10-09,Jaipur,Minor,Tyre Burst,26.9173,75.795419
+2024-05-30,Jaipur,Fatal,Tyre Burst,26.896118,75.767751
+2023-02-28,Delhi,Fatal,Tyre Burst,28.631289,77.217642
+2022-07-24,Kolkata,Major,Weather Conditions,22.563926,88.370996
+2021-09-12,Mumbai,Minor,Brake Failure,19.064698,72.865398
+2024-03-23,Chennai,Minor,Drunk Driving,13.072242,80.26334
+2021-07-21,Ahmedabad,Minor,Distraction,23.011052,72.583672
+2022-04-06,Lucknow,Minor,Distraction,26.845662,80.948913
+2022-06-12,Chennai,Major,Distraction,13.071404,80.261972
+2021-09-05,Kolkata,Minor,Signal Jumping,22.588041,88.355422
+2023-01-13,Kolkata,Major,Tyre Burst,22.555442,88.34762
+2022-10-22,Chennai,Major,Brake Failure,13.086068,80.251324
+2023-05-29,Ahmedabad,Major,Brake Failure,23.01007,72.559077
+2023-07-20,Hyderabad,Fatal,Speeding,17.380455,78.495939
+2022-08-12,Pune,Minor,Weather Conditions,18.51639,73.864364
+2023-07-02,Ahmedabad,Major,Brake Failure,23.012745,72.586703
+2023-05-09,Delhi,Major,Speeding,28.614121,77.195135
+2022-06-25,Jaipur,Major,Signal Jumping,26.918479,75.780174
+2024-01-24,Ahmedabad,Minor,Tyre Burst,23.02416,72.562185
+2023-02-07,Pune,Minor,Overtaking,18.533049,73.85625
+2022-01-11,Hyderabad,Minor,Speeding,17.370615,78.503194
+2022-11-30,Pune,Minor,Weather Conditions,18.539894,73.858374
+2023-08-25,Hyderabad,Minor,Distraction,17.404414,78.486193
+2021-02-09,Pune,Minor,Signal Jumping,18.503733,73.840487
+2021-06-13,Ahmedabad,Minor,Brake Failure,23.015607,72.557945
+2023-03-15,Pune,Minor,Speeding,18.528466,73.864167
+2023-10-14,Mumbai,Minor,Tyre Burst,19.094297,72.892565
+2023-07-12,Lucknow,Minor,Brake Failure,26.82729,80.933994
+2022-02-04,Chennai,Minor,Speeding,13.084415,80.254054
+2023-11-08,Mumbai,Minor,Speeding,19.069512,72.876846
+2023-11-27,Mumbai,Minor,Speeding,19.076578,72.883143
+2024-03-18,Hyderabad,Minor,Brake Failure,17.381982,78.474424
+2022-01-22,Jaipur,Major,Speeding,26.926,75.768763
+2021-11-07,Bengaluru,Major,Tyre Burst,12.991249,77.601628
+2023-09-29,Mumbai,Major,Distraction,19.062153,72.894257
+2022-05-22,Delhi,Minor,Weather Conditions,28.612861,77.222898
+2022-01-15,Bengaluru,Minor,Distraction,12.976317,77.614251
+2024-07-03,Pune,Minor,Tyre Burst,18.533346,73.867909
+2022-11-17,Pune,Minor,Drunk Driving,18.504234,73.873341
+2022-09-15,Pune,Minor,Overtaking,18.516609,73.867362
+2021-03-24,Bengaluru,Minor,Drunk Driving,12.960459,77.579553
+2021-04-17,Ahmedabad,Minor,Overtaking,23.032078,72.583087
+2022-10-06,Pune,Major,Overtaking,18.502007,73.858128
+2021-06-01,Mumbai,Minor,Brake Failure,19.086213,72.874369
+2022-10-19,Delhi,Fatal,Distraction,28.623149,77.195113
+2022-01-29,Chennai,Fatal,Tyre Burst,13.093306,80.259531
+2021-05-18,Bengaluru,Fatal,Brake Failure,12.96046,77.606289
+2023-12-04,Jaipur,Minor,Drunk Driving,26.908606,75.804447
+2024-01-14,Ahmedabad,Major,Signal Jumping,23.004439,72.580932
+2024-01-29,Ahmedabad,Major,Signal Jumping,23.002991,72.56055
+2024-07-14,Chennai,Minor,Brake Failure,13.077271,80.283561
+2023-06-11,Bengaluru,Major,Distraction,12.982258,77.603723
+2023-10-24,Delhi,Major,Tyre Burst,28.598499,77.196493
+2024-04-08,Pune,Major,Drunk Driving,18.505948,73.848435
+2023-08-02,Chennai,Minor,Overtaking,13.081574,80.287264
+2024-06-14,Mumbai,Minor,Drunk Driving,19.067411,72.865592
+2023-11-08,Delhi,Fatal,Distraction,28.613446,77.204035
+2021-03-20,Hyderabad,Major,Drunk Driving,17.380422,78.493333
+2024-03-18,Hyderabad,Major,Tyre Burst,17.377823,78.499213
+2022-09-22,Jaipur,Minor,Overtaking,26.898854,75.787787
+2024-07-16,Kolkata,Minor,Overtaking,22.586064,88.378382
+2021-09-11,Hyderabad,Major,Distraction,17.399163,78.482064
+2023-08-30,Pune,Minor,Tyre Burst,18.536814,73.873195
+2022-08-25,Delhi,Major,Distraction,28.597937,77.197557
+2023-05-29,Hyderabad,Minor,Drunk Driving,17.402083,78.479413
+2022-08-16,Mumbai,Minor,Tyre Burst,19.092151,72.893555
+2024-04-15,Lucknow,Minor,Tyre Burst,26.83384,80.931513
+2021-06-04,Kolkata,Minor,Brake Failure,22.567317,88.382429
+2022-05-17,Delhi,Minor,Speeding,28.60047,77.207311
+2022-02-01,Hyderabad,Fatal,Drunk Driving,17.370826,78.484843
+2023-11-30,Bengaluru,Fatal,Overtaking,12.960772,77.58973
+2023-11-12,Chennai,Minor,Speeding,13.078375,80.288399
+2023-10-03,Hyderabad,Minor,Speeding,17.393621,78.466918
+2021-01-23,Delhi,Minor,Overtaking,28.601541,77.224988
+2022-04-11,Bengaluru,Minor,Brake Failure,12.969868,77.596988
+2023-07-06,Kolkata,Major,Speeding,22.591019,88.357931
+2023-07-03,Lucknow,Minor,Signal Jumping,26.856242,80.945229
+2021-06-16,Lucknow,Fatal,Brake Failure,26.855708,80.951862
+2021-08-12,Hyderabad,Minor,Drunk Driving,17.388793,78.495722
+2021-07-18,Kolkata,Minor,Weather Conditions,22.592264,88.382584
+2022-12-11,Chennai,Major,Drunk Driving,13.067135,80.280138
+2023-11-07,Bengaluru,Minor,Speeding,12.969027,77.587715
+2023-11-29,Ahmedabad,Minor,Signal Jumping,23.019969,72.571321
+2021-12-17,Jaipur,Minor,Overtaking,26.899975,75.799089
+2021-07-28,Pune,Major,Brake Failure,18.535295,73.844736
+2022-10-29,Ahmedabad,Minor,Speeding,23.013718,72.572809
+2021-03-11,Pune,Minor,Weather Conditions,18.532868,73.866943
+2021-12-28,Ahmedabad,Minor,Weather Conditions,23.034073,72.579769
+2022-03-08,Ahmedabad,Minor,Weather Conditions,23.02341,72.578594
+2022-11-12,Kolkata,Major,Overtaking,22.568089,88.3757
+2022-05-13,Lucknow,Minor,Overtaking,26.853265,80.955115
+2021-04-25,Mumbai,Major,Drunk Driving,19.078132,72.894447
+2021-07-11,Lucknow,Minor,Overtaking,26.851496,80.926481
+2024-02-01,Ahmedabad,Major,Tyre Burst,23.010612,72.572568
+2022-03-25,Pune,Major,Overtaking,18.517464,73.866729
+2024-04-20,Lucknow,Minor,Speeding,26.833351,80.927533
+2023-09-23,Pune,Major,Speeding,18.532594,73.867459
+2023-05-12,Hyderabad,Minor,Distraction,17.371867,78.488926
+2023-11-22,Chennai,Minor,Overtaking,13.070449,80.269117
+2022-10-15,Chennai,Minor,Overtaking,13.100519,80.272079
+2023-05-26,Mumbai,Major,Weather Conditions,19.058231,72.892708
+2023-10-16,Jaipur,Minor,Tyre Burst,26.901791,75.791418
+2021-08-26,Ahmedabad,Minor,Speeding,23.018121,72.569975
+2024-02-04,Chennai,Major,Drunk Driving,13.067224,80.267339
+2024-05-10,Jaipur,Major,Signal Jumping,26.892894,75.7858
+2023-08-19,Lucknow,Fatal,Brake Failure,26.832157,80.931482
+2023-08-22,Lucknow,Minor,Overtaking,26.834059,80.934962
+2022-04-07,Bengaluru,Major,Weather Conditions,12.974015,77.583617
+2023-04-20,Kolkata,Minor,Brake Failure,22.571771,88.380447
+2022-09-18,Jaipur,Minor,Distraction,26.93122,75.770396
+2024-02-19,Pune,Major,Overtaking,18.537282,73.866581
+2022-03-02,Pune,Minor,Drunk Driving,18.50482,73.868322
+2023-06-05,Hyderabad,Minor,Brake Failure,17.399731,78.481384
+2021-07-07,Mumbai,Minor,Drunk Driving,19.057774,72.85998
+2021-05-26,Hyderabad,Minor,Brake Failure,17.386319,78.484426
+2021-03-26,Pune,Minor,Speeding,18.514768,73.86756
+2021-10-22,Bengaluru,Minor,Distraction,12.987226,77.591309
+2021-09-22,Jaipur,Major,Signal Jumping,26.905668,75.806951
+2024-03-05,Pune,Major,Overtaking,18.537738,73.867411
+2024-03-30,Delhi,Minor,Tyre Burst,28.612751,77.199056
+2021-06-06,Jaipur,Minor,Speeding,26.898549,75.775717
+2022-10-21,Bengaluru,Major,Brake Failure,12.965749,77.609106
+2021-07-10,Hyderabad,Fatal,Brake Failure,17.372257,78.471086
+2022-07-25,Mumbai,Minor,Overtaking,19.080099,72.866418
+2022-12-08,Bengaluru,Minor,Brake Failure,12.973602,77.597756
+2021-09-01,Kolkata,Major,Distraction,22.561054,88.382815
+2023-08-19,Chennai,Minor,Distraction,13.091666,80.288225
+2024-03-15,Kolkata,Minor,Overtaking,22.564455,88.354621
+2024-01-31,Pune,Minor,Brake Failure,18.533609,73.866288
+2022-12-25,Pune,Fatal,Tyre Burst,18.530969,73.841473
+2021-08-01,Hyderabad,Minor,Distraction,17.39919,78.50661
+2023-07-13,Bengaluru,Minor,Weather Conditions,12.954129,77.583475
+2023-09-18,Kolkata,Minor,Brake Failure,22.5612,88.375246
+2023-08-12,Mumbai,Minor,Signal Jumping,19.083646,72.871392
+2023-09-01,Kolkata,Minor,Drunk Driving,22.569284,88.356892
+2021-07-18,Chennai,Minor,Overtaking,13.087822,80.289138
+2022-06-24,Hyderabad,Minor,Signal Jumping,17.397406,78.502158
+2022-02-11,Chennai,Major,Weather Conditions,13.081155,80.253262
+2022-07-12,Kolkata,Minor,Weather Conditions,22.559938,88.362979
+2024-01-23,Mumbai,Minor,Signal Jumping,19.057141,72.887873
+2024-02-07,Jaipur,Minor,Signal Jumping,26.919245,75.781728
+2021-01-03,Pune,Minor,Tyre Burst,18.534483,73.852519
+2022-10-01,Hyderabad,Minor,Weather Conditions,17.368945,78.481183
+2024-05-24,Jaipur,Minor,Distraction,26.89494,75.797336
+2023-12-08,Delhi,Fatal,Drunk Driving,28.630206,77.192543
+2022-05-16,Hyderabad,Minor,Tyre Burst,17.396093,78.494692
+2021-01-27,Chennai,Minor,Weather Conditions,13.099381,80.289378
+2022-02-24,Hyderabad,Minor,Overtaking,17.398171,78.481353
+2023-05-02,Kolkata,Minor,Speeding,22.58085,88.35468
+2022-10-14,Pune,Minor,Brake Failure,18.503851,73.839412
+2021-01-17,Ahmedabad,Fatal,Overtaking,23.035831,72.553893
+2022-09-18,Ahmedabad,Minor,Tyre Burst,23.019475,72.567549
+2021-03-13,Ahmedabad,Minor,Drunk Driving,23.036963,72.556114
+2022-06-01,Lucknow,Minor,Speeding,26.860994,80.932752
+2021-09-11,Pune,Major,Drunk Driving,18.517639,73.86186
+2024-03-22,Kolkata,Minor,Tyre Burst,22.564305,88.354699
+2022-04-11,Ahmedabad,Fatal,Weather Conditions,23.034491,72.588219
+2021-12-12,Kolkata,Minor,Tyre Burst,22.591294,88.353668
+2022-03-26,Lucknow,Major,Weather Conditions,26.853186,80.926437
+2023-11-29,Hyderabad,Major,Tyre Burst,17.366766,78.489276
+2021-02-15,Lucknow,Minor,Weather Conditions,26.860837,80.947132
+2023-07-09,Chennai,Fatal,Speeding,13.087685,80.252306
+2023-04-20,Jaipur,Major,Overtaking,26.914455,75.79071
+2021-03-01,Bengaluru,Minor,Distraction,12.971984,77.608621
+2022-10-13,Kolkata,Minor,Distraction,22.568849,88.361975
+2021-04-03,Hyderabad,Major,Signal Jumping,17.394379,78.483399
+2022-09-10,Lucknow,Minor,Speeding,26.842155,80.933774
+2022-03-07,Hyderabad,Minor,Distraction,17.368539,78.484674
+2022-10-10,Hyderabad,Fatal,Drunk Driving,17.395343,78.493144
+2022-10-12,Kolkata,Minor,Distraction,22.561164,88.345811
+2023-02-24,Pune,Minor,Speeding,18.5215,73.847738
+2022-03-15,Bengaluru,Major,Speeding,12.960656,77.586219
+2023-09-10,Lucknow,Minor,Overtaking,26.845633,80.963828
+2022-08-12,Delhi,Minor,Distraction,28.595159,77.209339
+2022-03-12,Lucknow,Major,Distraction,26.842928,80.959493
+2021-01-16,Chennai,Major,Overtaking,13.063772,80.277504
+2023-02-11,Lucknow,Minor,Distraction,26.8539,80.935605
+2022-11-01,Ahmedabad,Fatal,Weather Conditions,23.006603,72.576652
+2023-12-28,Pune,Minor,Distraction,18.537423,73.848143
+2023-12-10,Delhi,Major,Drunk Driving,28.599341,77.189061
+2022-04-09,Jaipur,Minor,Distraction,26.900703,75.792931
+2023-07-30,Pune,Major,Signal Jumping,18.513123,73.852277
+2023-10-16,Pune,Minor,Distraction,18.5131,73.847282
+2021-11-15,Jaipur,Minor,Speeding,26.921538,75.786006
+2022-11-29,Bengaluru,Major,Tyre Burst,12.984367,77.593405
+2023-09-07,Ahmedabad,Major,Tyre Burst,23.028261,72.582936
+2024-02-17,Kolkata,Major,Weather Conditions,22.590697,88.382721
+2021-02-07,Kolkata,Major,Signal Jumping,22.57709,88.373205
+2022-11-25,Kolkata,Minor,Weather Conditions,22.559323,88.345238
+2022-08-10,Mumbai,Major,Signal Jumping,19.077456,72.887533
+2022-11-12,Jaipur,Major,Brake Failure,26.899166,75.802385
+2021-07-21,Kolkata,Minor,Overtaking,22.590353,88.358098
+2023-02-21,Bengaluru,Minor,Weather Conditions,12.952469,77.599462
+2022-09-29,Mumbai,Major,Brake Failure,19.069771,72.859486
+2023-05-15,Chennai,Minor,Distraction,13.099152,80.265134
+2024-05-04,Chennai,Minor,Speeding,13.081239,80.256508
+2024-03-31,Delhi,Major,Brake Failure,28.604953,77.215381
+2023-10-20,Bengaluru,Minor,Distraction,12.98733,77.610832
+2024-03-07,Delhi,Minor,Weather Conditions,28.615087,77.222496
+2024-01-29,Delhi,Minor,Signal Jumping,28.594795,77.196163
+2021-03-11,Mumbai,Minor,Brake Failure,19.083599,72.868257
+2023-07-22,Bengaluru,Minor,Brake Failure,12.987465,77.613331
+2022-10-30,Jaipur,Minor,Tyre Burst,26.898881,75.788068
+2021-11-06,Delhi,Minor,Weather Conditions,28.603287,77.21759
+2021-05-28,Delhi,Minor,Signal Jumping,28.620822,77.198237
+2021-08-25,Bengaluru,Major,Tyre Burst,12.989433,77.607841
+2023-02-04,Hyderabad,Minor,Drunk Driving,17.398411,78.492511
+2023-05-01,Chennai,Minor,Overtaking,13.07172,80.260142
+2022-03-18,Delhi,Minor,Signal Jumping,28.633544,77.194555
+2021-10-29,Kolkata,Minor,Brake Failure,22.591655,88.372724
+2024-04-03,Hyderabad,Fatal,Signal Jumping,17.394974,78.480981
+2021-03-27,Ahmedabad,Major,Tyre Burst,23.031254,72.576752
+2021-05-29,Mumbai,Major,Drunk Driving,19.06106,72.893942
+2021-12-10,Jaipur,Major,Speeding,26.91805,75.789607
+2021-10-29,Pune,Minor,Tyre Burst,18.526226,73.871143
+2022-10-25,Kolkata,Major,Weather Conditions,22.58035,88.378951
+2024-06-22,Bengaluru,Minor,Tyre Burst,12.970682,77.587169
+2022-08-08,Ahmedabad,Fatal,Distraction,23.004654,72.57875
+2024-01-28,Hyderabad,Minor,Distraction,17.382498,78.479244
+2023-05-30,Lucknow,Minor,Weather Conditions,26.830324,80.959893
+2023-07-07,Mumbai,Major,Tyre Burst,19.073722,72.884968
+2023-09-02,Ahmedabad,Minor,Speeding,23.018994,72.582789
+2021-10-24,Chennai,Minor,Tyre Burst,13.067388,80.253187
+2023-04-22,Pune,Minor,Overtaking,18.506007,73.84089
+2021-05-17,Chennai,Minor,Signal Jumping,13.089002,80.261502
+2022-10-01,Mumbai,Minor,Weather Conditions,19.087012,72.87865
+2022-07-14,Lucknow,Minor,Signal Jumping,26.863227,80.938359
+2023-05-01,Ahmedabad,Minor,Overtaking,23.03079,72.59003
+2022-07-11,Delhi,Major,Speeding,28.619706,77.222226
+2021-07-07,Mumbai,Major,Drunk Driving,19.079905,72.894187
+2023-12-12,Chennai,Minor,Weather Conditions,13.097714,80.277708
+2021-07-12,Jaipur,Minor,Weather Conditions,26.925113,75.799015
+2022-08-22,Kolkata,Minor,Drunk Driving,22.57339,88.378418
+2023-02-09,Hyderabad,Major,Distraction,17.40166,78.470957
+2021-09-02,Pune,Minor,Tyre Burst,18.525382,73.840145
+2023-08-30,Pune,Major,Distraction,18.503593,73.851631
+2022-10-14,Pune,Minor,Distraction,18.522852,73.870135
+2023-12-12,Kolkata,Minor,Signal Jumping,22.591079,88.3658
+2021-02-17,Bengaluru,Minor,Brake Failure,12.955662,77.577004
+2023-09-26,Pune,Minor,Drunk Driving,18.510435,73.876278
+2024-05-16,Pune,Minor,Weather Conditions,18.534318,73.869527
+2022-05-07,Delhi,Minor,Overtaking,28.606235,77.220168
+2021-09-24,Hyderabad,Major,Overtaking,17.382622,78.481468
+2024-04-05,Kolkata,Major,Drunk Driving,22.585082,88.375048
+2023-04-28,Delhi,Minor,Tyre Burst,28.595052,77.19379
+2021-11-22,Bengaluru,Major,Tyre Burst,12.985357,77.598279
+2021-02-04,Bengaluru,Fatal,Distraction,12.964811,77.611366
+2023-07-12,Mumbai,Major,Speeding,19.080176,72.867896
+2023-02-09,Kolkata,Major,Tyre Burst,22.554604,88.357733
+2021-08-06,Pune,Fatal,Signal Jumping,18.5295,73.861629
+2022-07-30,Pune,Minor,Speeding,18.501718,73.843765
+2021-07-23,Hyderabad,Major,Speeding,17.375409,78.495731
+2023-12-15,Delhi,Major,Tyre Burst,28.602042,77.204342
+2023-01-28,Bengaluru,Minor,Overtaking,12.952421,77.588559
+2021-02-13,Bengaluru,Major,Weather Conditions,12.985711,77.579453
+2022-01-22,Bengaluru,Fatal,Distraction,12.973678,77.593753
+2021-04-07,Mumbai,Major,Brake Failure,19.086072,72.879837
+2024-07-24,Jaipur,Major,Brake Failure,26.896617,75.770714
+2024-05-04,Pune,Minor,Overtaking,18.52323,73.84587
+2023-03-10,Mumbai,Minor,Signal Jumping,19.068454,72.877487
+2024-07-23,Ahmedabad,Minor,Distraction,23.0064,72.583225
+2023-01-29,Ahmedabad,Minor,Weather Conditions,23.002526,72.570136
+2022-12-29,Hyderabad,Minor,Distraction,17.393179,78.492544
+2023-12-22,Pune,Minor,Brake Failure,18.531251,73.845957
+2023-06-02,Kolkata,Minor,Speeding,22.554114,88.373937
+2021-09-13,Jaipur,Minor,Weather Conditions,26.921386,75.768214
+2021-08-31,Lucknow,Minor,Drunk Driving,26.861365,80.934157
+2022-03-05,Mumbai,Minor,Weather Conditions,19.081818,72.895294
+2022-10-31,Bengaluru,Minor,Signal Jumping,12.967137,77.576015
+2022-03-03,Hyderabad,Major,Signal Jumping,17.379726,78.497767
+2023-04-04,Kolkata,Minor,Weather Conditions,22.557269,88.347772
+2021-08-16,Ahmedabad,Major,Brake Failure,23.003498,72.564538
+2022-09-14,Pune,Major,Drunk Driving,18.526288,73.842775
+2022-03-28,Ahmedabad,Minor,Drunk Driving,23.03083,72.559773
+2023-10-06,Delhi,Minor,Drunk Driving,28.599593,77.202498
+2022-10-28,Hyderabad,Minor,Weather Conditions,17.381282,78.497916
+2023-01-30,Lucknow,Minor,Brake Failure,26.844173,80.935804
+2022-07-13,Pune,Minor,Overtaking,18.501253,73.876583
+2024-02-27,Jaipur,Minor,Overtaking,26.914543,75.792081
+2022-10-29,Hyderabad,Minor,Signal Jumping,17.397625,78.486336
+2024-07-23,Lucknow,Minor,Overtaking,26.861888,80.93222
+2022-07-13,Bengaluru,Minor,Overtaking,12.975035,77.607747
+2023-01-20,Lucknow,Minor,Tyre Burst,26.864922,80.948954
+2024-04-20,Mumbai,Major,Signal Jumping,19.059048,72.872285
+2023-06-05,Hyderabad,Minor,Weather Conditions,17.404882,78.479619
+2022-08-21,Kolkata,Minor,Speeding,22.568318,88.362231
+2021-03-01,Kolkata,Major,Signal Jumping,22.552773,88.363811
+2023-11-26,Ahmedabad,Minor,Distraction,23.022042,72.553445
+2022-11-04,Jaipur,Major,Drunk Driving,26.926211,75.804448
+2021-03-30,Ahmedabad,Minor,Speeding,23.018284,72.565159
+2022-06-08,Hyderabad,Major,Signal Jumping,17.370953,78.469532
+2022-09-27,Pune,Minor,Weather Conditions,18.523167,73.8499
+2021-04-03,Pune,Minor,Tyre Burst,18.508442,73.856114
+2021-11-04,Delhi,Minor,Brake Failure,28.597925,77.200839
+2024-01-24,Kolkata,Fatal,Weather Conditions,22.562318,88.358697
+2023-06-25,Ahmedabad,Minor,Speeding,23.023458,72.587204
+2023-02-26,Delhi,Major,Drunk Driving,28.594481,77.197942
+2022-08-14,Chennai,Fatal,Brake Failure,13.093405,80.261688
+2024-02-28,Jaipur,Minor,Signal Jumping,26.912632,75.802953
+2021-06-25,Kolkata,Major,Speeding,22.586753,88.36163
+2024-06-19,Delhi,Fatal,Signal Jumping,28.609213,77.193611
+2021-03-10,Jaipur,Minor,Tyre Burst,26.910129,75.786666
+2024-05-23,Pune,Major,Distraction,18.509582,73.857929
+2021-02-28,Lucknow,Minor,Brake Failure,26.843286,80.957083
+2023-06-29,Lucknow,Minor,Weather Conditions,26.862685,80.962767
+2021-01-27,Pune,Major,Distraction,18.508168,73.844061
+2022-06-28,Chennai,Minor,Weather Conditions,13.065988,80.273687
+2022-01-02,Lucknow,Major,Tyre Burst,26.827502,80.956652
+2024-06-10,Mumbai,Major,Speeding,19.059665,72.880457
+2023-10-05,Jaipur,Major,Tyre Burst,26.894467,75.781538
+2023-07-25,Bengaluru,Minor,Overtaking,12.991405,77.592168
+2023-08-08,Hyderabad,Major,Distraction,17.384461,78.488614
+2022-09-11,Chennai,Major,Tyre Burst,13.06319,80.252607
+2023-06-02,Delhi,Minor,Tyre Burst,28.606066,77.194523
+2021-03-15,Pune,Major,Overtaking,18.507688,73.846858
+2021-07-03,Hyderabad,Major,Weather Conditions,17.372615,78.481241
+2022-01-01,Jaipur,Minor,Signal Jumping,26.899034,75.776148
+2024-03-30,Jaipur,Minor,Tyre Burst,26.904019,75.7976
+2021-01-09,Jaipur,Minor,Drunk Driving,26.920064,75.783506
+2024-04-10,Ahmedabad,Fatal,Signal Jumping,23.025283,72.587273
+2022-05-14,Mumbai,Major,Weather Conditions,19.069992,72.892663
+2024-07-02,Jaipur,Fatal,Speeding,26.911548,75.798422
+2023-02-13,Ahmedabad,Major,Brake Failure,23.034162,72.58833
+2021-06-08,Kolkata,Major,Brake Failure,22.567254,88.345899
+2023-03-27,Hyderabad,Minor,Overtaking,17.367269,78.477441
+2023-07-06,Jaipur,Minor,Overtaking,26.892506,75.806356
+2023-05-19,Jaipur,Minor,Drunk Driving,26.92775,75.775858
+2021-02-16,Lucknow,Major,Drunk Driving,26.837397,80.952275
+2022-01-26,Bengaluru,Major,Drunk Driving,12.966335,77.587956
+2021-03-09,Ahmedabad,Minor,Drunk Driving,23.028752,72.566965
+2023-03-08,Delhi,Minor,Signal Jumping,28.594144,77.198767
+2023-03-18,Delhi,Minor,Brake Failure,28.608631,77.224153
+2022-08-23,Chennai,Minor,Brake Failure,13.092718,80.277259
+2024-05-09,Hyderabad,Major,Distraction,17.396297,78.503326
+2022-03-18,Bengaluru,Major,Tyre Burst,12.979412,77.602043
+2023-11-18,Ahmedabad,Major,Distraction,23.008333,72.581683
+2022-01-20,Lucknow,Minor,Weather Conditions,26.857455,80.963654
+2022-10-05,Bengaluru,Minor,Speeding,12.956267,77.600488
+2023-02-16,Chennai,Minor,Overtaking,13.088903,80.258035
+2023-02-25,Bengaluru,Minor,Brake Failure,12.969012,77.591142
+2023-03-09,Chennai,Major,Drunk Driving,13.074839,80.289696
+2021-01-07,Bengaluru,Minor,Tyre Burst,12.953528,77.596297
+2024-01-11,Chennai,Fatal,Signal Jumping,13.098198,80.279623
+2023-09-24,Chennai,Major,Speeding,13.086608,80.255851
+2021-05-24,Jaipur,Fatal,Overtaking,26.908123,75.799056
+2022-07-05,Delhi,Major,Drunk Driving,28.628154,77.2215
+2023-08-31,Hyderabad,Major,Speeding,17.383409,78.493946
+2023-06-04,Chennai,Minor,Brake Failure,13.088702,80.277319
+2021-12-23,Ahmedabad,Minor,Weather Conditions,23.014998,72.556134
+2023-11-21,Delhi,Major,Distraction,28.614254,77.21134
+2022-02-23,Delhi,Minor,Speeding,28.594124,77.196837
+2021-09-03,Chennai,Minor,Distraction,13.072099,80.269511
+2023-01-25,Kolkata,Minor,Tyre Burst,22.57729,88.381967
+2021-08-06,Chennai,Minor,Speeding,13.093134,80.279255
+2023-02-06,Mumbai,Minor,Weather Conditions,19.070569,72.892833
+2023-01-17,Pune,Major,Distraction,18.515222,73.874723
+2024-06-29,Lucknow,Major,Drunk Driving,26.837744,80.956249
+2021-07-09,Ahmedabad,Minor,Weather Conditions,23.010312,72.587913
+2024-05-17,Lucknow,Major,Weather Conditions,26.846596,80.949085
+2023-10-09,Bengaluru,Major,Speeding,12.96584,77.602754
+2021-01-05,Kolkata,Major,Signal Jumping,22.563664,88.356251
+2022-06-17,Jaipur,Minor,Overtaking,26.92124,75.791562
+2024-01-16,Jaipur,Major,Signal Jumping,26.921834,75.798844
+2022-06-03,Lucknow,Minor,Signal Jumping,26.857641,80.952483
+2023-01-08,Ahmedabad,Major,Signal Jumping,23.020618,72.5774
+2022-06-19,Lucknow,Minor,Weather Conditions,26.828943,80.937013
+2022-01-31,Kolkata,Minor,Drunk Driving,22.556963,88.377387
+2021-01-22,Delhi,Minor,Weather Conditions,28.605978,77.20181
+2022-07-14,Jaipur,Minor,Overtaking,26.91061,75.797297
+2023-03-14,Bengaluru,Fatal,Overtaking,12.956705,77.59029
+2024-04-11,Kolkata,Minor,Overtaking,22.573647,88.364776
+2022-01-04,Kolkata,Major,Tyre Burst,22.574537,88.357448
+2023-10-12,Bengaluru,Minor,Speeding,12.977343,77.600284
+2022-09-03,Jaipur,Minor,Drunk Driving,26.921169,75.790598
+2021-04-21,Kolkata,Minor,Brake Failure,22.559821,88.37288
+2024-03-29,Kolkata,Fatal,Distraction,22.552991,88.38289
+2022-04-18,Chennai,Fatal,Brake Failure,13.086917,80.251324
+2023-01-16,Lucknow,Minor,Drunk Driving,26.831409,80.943256
+2024-07-18,Delhi,Major,Signal Jumping,28.60566,77.19698
+2021-10-01,Lucknow,Minor,Speeding,26.852586,80.949822
+2023-11-27,Ahmedabad,Minor,Brake Failure,23.013054,72.55278
+2021-04-15,Bengaluru,Minor,Distraction,12.985094,77.575484
+2023-08-14,Lucknow,Fatal,Drunk Driving,26.862867,80.943703
+2021-03-21,Jaipur,Minor,Tyre Burst,26.931162,75.780815
+2024-05-30,Jaipur,Minor,Overtaking,26.902344,75.778911
+2022-08-27,Ahmedabad,Minor,Drunk Driving,23.005367,72.584609
+2023-12-18,Kolkata,Minor,Tyre Burst,22.581994,88.368504
+2022-04-23,Kolkata,Minor,Weather Conditions,22.5569,88.356144
+2024-06-12,Jaipur,Minor,Drunk Driving,26.924792,75.777283
+2021-08-20,Ahmedabad,Fatal,Distraction,23.004255,72.586501
+2022-10-01,Bengaluru,Major,Speeding,12.95592,77.585373
+2022-08-24,Ahmedabad,Minor,Brake Failure,23.030346,72.57942
+2021-11-04,Mumbai,Major,Distraction,19.07707,72.876558
+2022-12-11,Pune,Minor,Drunk Driving,18.52055,73.841878
+2021-01-21,Ahmedabad,Major,Weather Conditions,23.0264,72.584877
+2021-06-06,Chennai,Minor,Signal Jumping,13.07376,80.272913
+2023-04-05,Bengaluru,Major,Distraction,12.957927,77.610065
+2022-11-21,Jaipur,Minor,Overtaking,26.910781,75.802942
+2022-12-29,Mumbai,Major,Tyre Burst,19.070177,72.868819
+2024-01-30,Jaipur,Major,Speeding,26.903449,75.798131
+2022-10-25,Mumbai,Minor,Weather Conditions,19.079265,72.886087
+2022-02-10,Jaipur,Minor,Weather Conditions,26.89575,75.778267
+2023-10-08,Kolkata,Minor,Weather Conditions,22.56322,88.373471
+2024-03-23,Chennai,Minor,Brake Failure,13.08031,80.269863
+2022-01-21,Mumbai,Minor,Drunk Driving,19.095331,72.883696
+2021-09-08,Pune,Minor,Signal Jumping,18.5081,73.858191
+2021-04-05,Bengaluru,Fatal,Weather Conditions,12.959196,77.593147
+2022-06-26,Chennai,Minor,Signal Jumping,13.087958,80.275317
+2021-09-08,Pune,Minor,Weather Conditions,18.512145,73.844275
+2021-02-19,Lucknow,Major,Brake Failure,26.841477,80.958664
+2023-09-19,Chennai,Minor,Distraction,13.078266,80.290362
+2023-12-29,Delhi,Major,Drunk Driving,28.631613,77.224304
+2023-03-02,Kolkata,Major,Tyre Burst,22.582686,88.381554
+2022-09-27,Pune,Minor,Brake Failure,18.532439,73.854685
+2024-03-29,Kolkata,Major,Weather Conditions,22.564751,88.344861
+2023-05-04,Mumbai,Major,Weather Conditions,19.066904,72.89734
+2021-03-16,Pune,Fatal,Signal Jumping,18.530074,73.837742
+2023-05-27,Kolkata,Minor,Brake Failure,22.554665,88.375273
+2023-06-11,Hyderabad,Major,Weather Conditions,17.40467,78.499637
+2021-10-02,Jaipur,Minor,Tyre Burst,26.911552,75.788668
+2024-07-08,Kolkata,Minor,Brake Failure,22.569721,88.353442
+2023-05-04,Kolkata,Major,Overtaking,22.561638,88.379852
+2023-01-17,Chennai,Minor,Tyre Burst,13.071254,80.284257
+2023-02-18,Lucknow,Minor,Tyre Burst,26.844575,80.952644
+2023-12-04,Hyderabad,Fatal,Weather Conditions,17.398256,78.491813
+2024-02-07,Hyderabad,Major,Signal Jumping,17.400637,78.491148
+2021-06-29,Chennai,Minor,Tyre Burst,13.077378,80.274107
+2023-09-17,Kolkata,Major,Overtaking,22.588075,88.374912
+2021-04-02,Lucknow,Major,Overtaking,26.830723,80.958952
+2022-01-31,Bengaluru,Minor,Signal Jumping,12.979025,77.602961
+2022-10-02,Delhi,Major,Weather Conditions,28.621454,77.212227
+2024-01-28,Delhi,Minor,Overtaking,28.626604,77.228235
+2022-01-15,Hyderabad,Minor,Overtaking,17.403055,78.491306
+2021-11-22,Jaipur,Minor,Overtaking,26.919873,75.780268
+2022-07-24,Ahmedabad,Minor,Brake Failure,23.030678,72.565763
+2023-01-20,Chennai,Minor,Brake Failure,13.080308,80.287663
+2023-03-24,Chennai,Major,Overtaking,13.087621,80.263516
+2022-03-25,Kolkata,Minor,Speeding,22.589717,88.376743
+2024-04-09,Bengaluru,Minor,Weather Conditions,12.987421,77.610921
+2021-12-26,Hyderabad,Minor,Signal Jumping,17.378563,78.49258
+2024-07-02,Chennai,Minor,Speeding,13.101997,80.268822
+2021-02-02,Hyderabad,Minor,Drunk Driving,17.371204,78.485706
+2024-01-12,Mumbai,Fatal,Distraction,19.086406,72.894143
+2021-12-30,Lucknow,Major,Brake Failure,26.84741,80.942153
+2024-07-14,Mumbai,Major,Weather Conditions,19.07235,72.873089
+2021-11-27,Mumbai,Minor,Overtaking,19.071122,72.869188
+2021-08-27,Mumbai,Minor,Speeding,19.058187,72.882944
+2023-01-06,Kolkata,Minor,Drunk Driving,22.585368,88.367178
+2021-05-26,Delhi,Major,Tyre Burst,28.628162,77.210463
+2022-12-29,Lucknow,Major,Signal Jumping,26.838704,80.95787
+2021-08-24,Jaipur,Major,Signal Jumping,26.897231,75.777479
+2024-04-27,Lucknow,Minor,Brake Failure,26.858031,80.941904
+2024-04-25,Chennai,Minor,Drunk Driving,13.09231,80.252848
+2021-11-14,Ahmedabad,Major,Brake Failure,23.021127,72.578306
+2024-04-23,Hyderabad,Major,Drunk Driving,17.370899,78.480106
+2021-02-24,Delhi,Minor,Speeding,28.598147,77.219793
+2021-07-29,Ahmedabad,Minor,Overtaking,23.02788,72.560592
+2024-05-01,Kolkata,Fatal,Overtaking,22.592165,88.361092
+2023-09-12,Kolkata,Minor,Overtaking,22.584112,88.370564
+2022-01-04,Chennai,Minor,Brake Failure,13.100119,80.28461
+2021-12-04,Ahmedabad,Fatal,Brake Failure,23.016685,72.563433
+2021-01-18,Bengaluru,Minor,Overtaking,12.987622,77.603885
+2021-05-01,Ahmedabad,Major,Distraction,23.004167,72.588667
+2022-07-20,Delhi,Minor,Overtaking,28.618829,77.217204
+2021-09-01,Hyderabad,Major,Signal Jumping,17.368831,78.499597
+2021-06-14,Pune,Minor,Distraction,18.5285,73.866549
+2022-05-29,Pune,Minor,Brake Failure,18.502751,73.876519
+2022-04-12,Ahmedabad,Minor,Drunk Driving,23.036804,72.565849
+2022-04-03,Lucknow,Minor,Drunk Driving,26.848002,80.951639
+2023-05-20,Bengaluru,Major,Overtaking,12.955242,77.574708
+2021-09-15,Ahmedabad,Minor,Speeding,23.004301,72.588883
+2023-10-29,Lucknow,Fatal,Brake Failure,26.858726,80.926946
+2023-08-04,Kolkata,Minor,Drunk Driving,22.589414,88.351459
+2022-05-23,Bengaluru,Minor,Signal Jumping,12.97724,77.580728
+2021-02-08,Kolkata,Major,Weather Conditions,22.556042,88.36448
+2023-08-24,Jaipur,Minor,Speeding,26.904052,75.784525
+2023-06-15,Bengaluru,Minor,Tyre Burst,12.977469,77.58343
+2024-06-22,Pune,Minor,Tyre Burst,18.536266,73.869605
+2021-08-17,Mumbai,Minor,Distraction,19.084627,72.883069
+2024-03-19,Kolkata,Minor,Drunk Driving,22.565599,88.380179
+2022-10-11,Ahmedabad,Minor,Weather Conditions,23.015631,72.554357
+2022-08-22,Pune,Major,Speeding,18.511944,73.842187
+2021-05-26,Lucknow,Minor,Drunk Driving,26.82954,80.958579
+2024-07-23,Bengaluru,Major,Drunk Driving,12.989451,77.607234
+2023-10-24,Delhi,Minor,Distraction,28.626397,77.206203
+2023-09-10,Mumbai,Major,Distraction,19.0843,72.896027
+2021-04-06,Jaipur,Minor,Signal Jumping,26.89494,75.802683
+2022-08-23,Chennai,Major,Speeding,13.073182,80.280601
+2024-03-04,Ahmedabad,Minor,Drunk Driving,23.01771,72.577963
+2024-04-01,Kolkata,Minor,Speeding,22.552948,88.372958
+2021-10-12,Ahmedabad,Major,Signal Jumping,23.041998,72.579859
+2023-02-02,Jaipur,Minor,Weather Conditions,26.893944,75.786211
+2022-05-04,Lucknow,Minor,Drunk Driving,26.862758,80.947274
+2024-05-20,Delhi,Minor,Drunk Driving,28.597766,77.224709
+2022-09-30,Kolkata,Fatal,Tyre Burst,22.562859,88.351655
+2023-09-07,Hyderabad,Minor,Weather Conditions,17.371686,78.476434
+2023-01-27,Bengaluru,Minor,Weather Conditions,12.979359,77.592039
+2022-06-14,Delhi,Minor,Tyre Burst,28.600747,77.220203
+2023-10-02,Delhi,Minor,Weather Conditions,28.599805,77.211049
+2022-08-12,Ahmedabad,Minor,Speeding,23.039215,72.578993
+2024-03-04,Delhi,Major,Drunk Driving,28.625186,77.213336
+2024-03-26,Pune,Minor,Tyre Burst,18.535277,73.869376
+2022-11-30,Pune,Minor,Tyre Burst,18.508188,73.850992
+2023-09-02,Kolkata,Major,Overtaking,22.562946,88.350675
+2023-12-27,Chennai,Minor,Weather Conditions,13.086188,80.288102
+2022-06-13,Pune,Minor,Tyre Burst,18.51399,73.844074
+2021-06-14,Ahmedabad,Minor,Brake Failure,23.013619,72.58824
+2021-02-09,Chennai,Minor,Tyre Burst,13.076958,80.288669
+2021-01-08,Kolkata,Major,Signal Jumping,22.573232,88.373047
+2022-05-19,Lucknow,Minor,Signal Jumping,26.866438,80.952
+2021-07-21,Bengaluru,Minor,Signal Jumping,12.978973,77.613503
+2022-06-20,Delhi,Minor,Distraction,28.604463,77.196618
+2022-01-19,Bengaluru,Fatal,Tyre Burst,12.952733,77.581434
+2023-10-18,Lucknow,Minor,Speeding,26.826764,80.931815
+2023-09-25,Lucknow,Minor,Overtaking,26.837033,80.942401
+2022-02-16,Bengaluru,Minor,Signal Jumping,12.97236,77.585591
+2022-07-25,Mumbai,Minor,Tyre Burst,19.079663,72.857833
+2022-06-08,Mumbai,Minor,Drunk Driving,19.087385,72.871522
+2021-07-09,Bengaluru,Minor,Weather Conditions,12.976815,77.598817
+2023-06-25,Mumbai,Fatal,Weather Conditions,19.062843,72.885237
+2023-01-15,Lucknow,Minor,Overtaking,26.830526,80.963443
+2023-03-10,Chennai,Minor,Tyre Burst,13.072835,80.265719
+2022-01-18,Jaipur,Minor,Speeding,26.895185,75.785535
+2023-08-15,Ahmedabad,Minor,Drunk Driving,23.041366,72.575345
+2023-02-23,Hyderabad,Minor,Brake Failure,17.404002,78.499261
+2022-04-28,Jaipur,Minor,Speeding,26.893842,75.790238
+2022-08-01,Jaipur,Major,Signal Jumping,26.918527,75.786468
+2021-10-18,Hyderabad,Major,Tyre Burst,17.372123,78.474589
+2021-08-24,Lucknow,Minor,Distraction,26.862352,80.950657
+2023-09-06,Hyderabad,Major,Overtaking,17.382756,78.466758
+2022-06-26,Hyderabad,Major,Speeding,17.373071,78.470263
+2023-05-26,Bengaluru,Minor,Tyre Burst,12.964315,77.580202
+2022-08-31,Lucknow,Minor,Speeding,26.830226,80.95156
+2022-03-02,Delhi,Minor,Brake Failure,28.611567,77.199049
+2022-10-17,Ahmedabad,Fatal,Distraction,23.02234,72.556593
+2023-06-06,Pune,Major,Weather Conditions,18.528134,73.867542
+2023-06-23,Jaipur,Major,Speeding,26.915811,75.773492
+2024-02-04,Chennai,Minor,Signal Jumping,13.096921,80.263921
+2022-09-22,Kolkata,Major,Weather Conditions,22.55459,88.364503
+2023-12-26,Delhi,Minor,Brake Failure,28.610175,77.191318
+2021-09-01,Jaipur,Minor,Speeding,26.928007,75.787723
+2024-01-25,Lucknow,Minor,Signal Jumping,26.850535,80.928702
+2021-03-24,Kolkata,Major,Weather Conditions,22.567147,88.359266
+2022-12-08,Mumbai,Minor,Speeding,19.071701,72.878466
+2024-04-10,Kolkata,Minor,Overtaking,22.592125,88.356597
+2021-07-07,Kolkata,Fatal,Overtaking,22.559223,88.378237
+2021-04-17,Mumbai,Fatal,Drunk Driving,19.063411,72.885968
+2022-06-07,Ahmedabad,Minor,Overtaking,23.004058,72.57865
+2024-02-21,Hyderabad,Minor,Overtaking,17.397101,78.483204
+2021-11-03,Jaipur,Minor,Tyre Burst,26.922,75.784137
+2024-07-09,Jaipur,Major,Drunk Driving,26.924389,75.770675
+2022-01-02,Hyderabad,Major,Overtaking,17.400665,78.492131
+2024-02-10,Lucknow,Minor,Distraction,26.856938,80.961361
+2022-01-30,Bengaluru,Minor,Signal Jumping,12.967965,77.610845
+2021-12-03,Hyderabad,Minor,Distraction,17.373328,78.503446
+2022-07-27,Delhi,Minor,Weather Conditions,28.609351,77.218922
+2024-07-24,Lucknow,Major,Brake Failure,26.856226,80.934728
+2022-10-18,Lucknow,Major,Speeding,26.843785,80.933992
+2024-06-28,Ahmedabad,Minor,Signal Jumping,23.020645,72.583633
+2021-06-25,Lucknow,Minor,Signal Jumping,26.827583,80.948218
+2022-04-07,Jaipur,Minor,Weather Conditions,26.906423,75.771681
+2021-12-02,Mumbai,Minor,Weather Conditions,19.081924,72.877997
+2023-05-22,Mumbai,Minor,Speeding,19.090935,72.88122
+2023-12-18,Hyderabad,Fatal,Drunk Driving,17.366304,78.467303
+2022-02-15,Delhi,Minor,Drunk Driving,28.616286,77.224787
+2022-08-12,Chennai,Minor,Distraction,13.080415,80.256993
+2021-01-26,Hyderabad,Minor,Weather Conditions,17.40364,78.49789
+2024-02-16,Chennai,Major,Tyre Burst,13.081639,80.2527
+2023-05-25,Jaipur,Minor,Weather Conditions,26.899394,75.781676
+2022-03-17,Jaipur,Major,Drunk Driving,26.897721,75.794097
+2023-08-25,Hyderabad,Minor,Distraction,17.399949,78.487825
+2021-10-31,Hyderabad,Minor,Speeding,17.369179,78.483181
+2021-12-23,Lucknow,Minor,Weather Conditions,26.84077,80.960275
+2021-06-28,Chennai,Minor,Brake Failure,13.086277,80.265443
+2023-03-11,Ahmedabad,Minor,Speeding,23.020119,72.555908
+2024-07-17,Hyderabad,Minor,Brake Failure,17.399475,78.496655
+2021-12-16,Ahmedabad,Major,Speeding,23.026058,72.570005
+2023-05-28,Lucknow,Minor,Distraction,26.864982,80.955007
+2024-02-13,Ahmedabad,Major,Brake Failure,23.010339,72.589954
+2024-05-21,Lucknow,Minor,Distraction,26.831748,80.944579
+2021-08-13,Hyderabad,Fatal,Signal Jumping,17.402986,78.473397
+2023-03-22,Bengaluru,Major,Signal Jumping,12.957276,77.595689
+2022-12-13,Hyderabad,Minor,Drunk Driving,17.39223,78.497706
+2024-06-17,Kolkata,Minor,Signal Jumping,22.570482,88.344846
+2023-04-25,Kolkata,Minor,Brake Failure,22.577741,88.35021
+2023-09-08,Bengaluru,Minor,Drunk Driving,12.983126,77.61079
+2022-03-18,Hyderabad,Minor,Overtaking,17.382565,78.495028
+2022-09-26,Ahmedabad,Major,Speeding,23.021884,72.576578
+2024-04-17,Mumbai,Minor,Weather Conditions,19.078443,72.870556
+2023-05-28,Jaipur,Major,Brake Failure,26.898372,75.801117
+2024-02-16,Kolkata,Minor,Brake Failure,22.567397,88.352874
+2022-08-15,Mumbai,Minor,Brake Failure,19.058067,72.885803
+2021-04-07,Jaipur,Minor,Distraction,26.907597,75.770837
+2022-04-10,Pune,Minor,Brake Failure,18.535444,73.853818
+2024-03-25,Mumbai,Minor,Drunk Driving,19.056674,72.883815
+2022-12-28,Mumbai,Major,Drunk Driving,19.062818,72.861021
+2023-12-11,Delhi,Minor,Weather Conditions,28.598295,77.204667
+2021-01-23,Delhi,Minor,Brake Failure,28.631863,77.216815
+2021-02-11,Hyderabad,Fatal,Signal Jumping,17.38382,78.488831
+2023-08-12,Ahmedabad,Major,Distraction,23.016508,72.586674
+2023-04-21,Delhi,Minor,Drunk Driving,28.615906,77.196814
+2021-04-07,Kolkata,Minor,Speeding,22.586747,88.382932
+2022-04-09,Kolkata,Major,Speeding,22.587198,88.356906
+2023-03-20,Kolkata,Fatal,Weather Conditions,22.563495,88.357678
+2021-08-04,Kolkata,Major,Overtaking,22.579576,88.375777
+2022-07-10,Lucknow,Fatal,Overtaking,26.831468,80.93503
+2022-01-28,Mumbai,Major,Weather Conditions,19.07898,72.878195
+2023-11-30,Kolkata,Minor,Signal Jumping,22.570053,88.380371
+2021-02-16,Jaipur,Minor,Weather Conditions,26.91774,75.794343
+2023-09-21,Hyderabad,Minor,Distraction,17.394281,78.475743
+2023-07-17,Hyderabad,Major,Tyre Burst,17.368774,78.504038
+2024-03-29,Jaipur,Minor,Brake Failure,26.897297,75.800709
+2023-03-26,Jaipur,Minor,Tyre Burst,26.924622,75.794862
+2024-02-19,Hyderabad,Minor,Signal Jumping,17.3694,78.505865
+2022-11-29,Chennai,Minor,Brake Failure,13.094467,80.275743
+2023-11-28,Delhi,Minor,Signal Jumping,28.628932,77.199882
+2021-07-29,Ahmedabad,Major,Tyre Burst,23.006849,72.561669
+2024-01-13,Kolkata,Minor,Speeding,22.578461,88.345822
+2021-06-09,Lucknow,Fatal,Overtaking,26.863007,80.96531
+2022-03-06,Chennai,Minor,Speeding,13.101442,80.278451
+2024-04-19,Lucknow,Minor,Drunk Driving,26.845245,80.955725
+2021-11-23,Ahmedabad,Major,Overtaking,23.029563,72.561038
+2021-10-08,Hyderabad,Major,Signal Jumping,17.378958,78.474924
+2021-10-28,Jaipur,Minor,Signal Jumping,26.905471,75.782098
+2023-04-26,Chennai,Fatal,Brake Failure,13.086232,80.259856
+2024-04-15,Hyderabad,Minor,Distraction,17.399551,78.483651
+2022-06-28,Chennai,Major,Tyre Burst,13.097513,80.260332
+2023-04-14,Chennai,Fatal,Weather Conditions,13.064096,80.267611
+2021-11-15,Jaipur,Minor,Brake Failure,26.910858,75.797361
+2024-05-01,Lucknow,Minor,Distraction,26.838741,80.951462
+2023-08-11,Chennai,Minor,Tyre Burst,13.082569,80.28485
+2022-04-02,Chennai,Minor,Tyre Burst,13.073315,80.255442
+2022-09-11,Pune,Major,Tyre Burst,18.511794,73.84766
+2023-02-19,Lucknow,Minor,Tyre Burst,26.860636,80.945496
+2024-03-28,Hyderabad,Fatal,Tyre Burst,17.386288,78.471516
+2022-07-16,Jaipur,Major,Distraction,26.907654,75.791901
+2021-12-09,Pune,Minor,Overtaking,18.517533,73.875276
+2024-01-25,Mumbai,Fatal,Brake Failure,19.090215,72.8726
+2024-05-31,Ahmedabad,Major,Brake Failure,23.027458,72.576873
+2021-03-01,Kolkata,Major,Speeding,22.569433,88.361904
+2024-02-28,Chennai,Fatal,Drunk Driving,13.098497,80.253396
+2024-01-25,Jaipur,Major,Brake Failure,26.91443,75.804101
+2021-10-30,Mumbai,Fatal,Tyre Burst,19.078675,72.896996
+2021-10-05,Mumbai,Minor,Signal Jumping,19.071674,72.861099
+2021-12-02,Bengaluru,Minor,Tyre Burst,12.983077,77.608651
+2021-06-19,Pune,Major,Speeding,18.501245,73.851436
+2022-05-27,Delhi,Minor,Overtaking,28.595515,77.220309
+2023-07-05,Lucknow,Minor,Speeding,26.84925,80.936527
+2023-08-10,Bengaluru,Minor,Overtaking,12.988594,77.611169
+2022-06-20,Hyderabad,Minor,Distraction,17.373168,78.493142
+2021-03-12,Hyderabad,Minor,Tyre Burst,17.390787,78.487308
+2022-02-01,Delhi,Major,Brake Failure,28.600916,77.211928
+2023-02-06,Jaipur,Minor,Brake Failure,26.92544,75.796439
+2022-12-18,Bengaluru,Minor,Brake Failure,12.969306,77.585972
+2023-01-13,Jaipur,Minor,Speeding,26.921979,75.768087
+2022-09-07,Mumbai,Fatal,Brake Failure,19.056222,72.860811
+2023-02-13,Pune,Major,Overtaking,18.529049,73.863274
+2022-07-08,Chennai,Major,Distraction,13.083834,80.283813
+2023-10-16,Lucknow,Major,Weather Conditions,26.849288,80.961317
+2021-04-19,Ahmedabad,Minor,Weather Conditions,23.015717,72.581556
+2023-01-07,Delhi,Minor,Distraction,28.611049,77.226832
+2022-12-18,Pune,Major,Brake Failure,18.511471,73.848593
+2022-07-30,Kolkata,Minor,Overtaking,22.573335,88.375026
+2023-09-07,Pune,Fatal,Brake Failure,18.520189,73.860028
+2022-09-04,Bengaluru,Minor,Signal Jumping,12.958243,77.60043
+2024-06-10,Ahmedabad,Major,Weather Conditions,23.019104,72.583632
+2021-10-19,Jaipur,Minor,Signal Jumping,26.902606,75.783445
+2022-02-03,Jaipur,Major,Speeding,26.903224,75.792793
+2021-03-25,Mumbai,Minor,Drunk Driving,19.086555,72.865185
+2022-11-29,Chennai,Minor,Drunk Driving,13.089757,80.25971
+2023-10-06,Ahmedabad,Minor,Weather Conditions,23.036511,72.558531
+2021-04-07,Pune,Major,Signal Jumping,18.523909,73.870251
+2021-09-25,Mumbai,Fatal,Weather Conditions,19.06628,72.858503
+2023-12-09,Mumbai,Minor,Distraction,19.089211,72.872082
+2021-01-10,Pune,Major,Speeding,18.507851,73.867375
+2023-08-05,Mumbai,Minor,Overtaking,19.073483,72.872328
+2023-12-31,Pune,Minor,Weather Conditions,18.538525,73.865454
+2024-03-22,Hyderabad,Minor,Speeding,17.403705,78.471794
+2021-04-23,Jaipur,Minor,Speeding,26.909114,75.790484
+2024-06-26,Hyderabad,Major,Signal Jumping,17.403566,78.500616
+2022-11-16,Ahmedabad,Minor,Weather Conditions,23.016663,72.561334
+2021-07-06,Mumbai,Minor,Distraction,19.063003,72.878161
+2021-10-07,Bengaluru,Minor,Tyre Burst,12.963939,77.585551
+2022-11-23,Mumbai,Minor,Distraction,19.086774,72.877708
+2021-07-30,Hyderabad,Fatal,Weather Conditions,17.402733,78.501538
+2022-08-11,Pune,Minor,Tyre Burst,18.530632,73.86215
+2021-10-25,Lucknow,Minor,Distraction,26.845033,80.935289
+2023-03-27,Hyderabad,Major,Signal Jumping,17.369095,78.491127
+2024-02-06,Mumbai,Fatal,Overtaking,19.086881,72.859371
+2022-03-07,Delhi,Minor,Overtaking,28.609711,77.225124
+2021-12-28,Chennai,Fatal,Drunk Driving,13.080808,80.282021
+2023-06-12,Delhi,Major,Overtaking,28.604874,77.189287
+2023-12-26,Lucknow,Minor,Speeding,26.854336,80.953084
+2024-04-15,Delhi,Minor,Speeding,28.621943,77.189595
+2023-05-16,Kolkata,Major,Brake Failure,22.569696,88.347355
+2021-12-08,Mumbai,Minor,Signal Jumping,19.087524,72.889147
+2022-04-05,Kolkata,Minor,Overtaking,22.579364,88.375466
+2022-12-15,Pune,Fatal,Overtaking,18.513899,73.846214
+2023-06-08,Ahmedabad,Major,Brake Failure,23.023908,72.583005
+2021-09-06,Delhi,Minor,Tyre Burst,28.620985,77.201636
+2023-10-07,Lucknow,Fatal,Speeding,26.858717,80.95338
+2021-05-03,Lucknow,Major,Brake Failure,26.840497,80.942099
